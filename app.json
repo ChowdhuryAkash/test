@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Loco",
+    "slug": "Loco",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Loco.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Loco.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Loco.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.akashchowdhury.Loco"
+    },
+    "web": {
+      "favicon": "./assets/Loco.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "17368fa9-1d8b-45be-ac04-713747d8ad94"
+      }
+    }
+  }
+}
